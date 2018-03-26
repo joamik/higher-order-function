@@ -1,0 +1,4 @@
+%{
+  "plug": {:hex, :plug, "1.1.9", "72218867c4d0ba6766ed0e6b1e38e9829784cfe7a82333283711eeb52473e8bc", [:mix], [{:cowboy, "~> 1.0", [hex: :cowboy, repo: "hexpm", optional: true]}], "hexpm"},
+  "stream_data": {:hex, :stream_data, "0.4.2", "fa86b78c88ec4eaa482c0891350fcc23f19a79059a687760ddcf8680aac2799b", [:mix], [], "hexpm"},
+}
